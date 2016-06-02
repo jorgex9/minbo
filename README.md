@@ -20,7 +20,7 @@ bot = telebot.TeleBot("AQUÍ VA EL TOKEN")
 
 ## Ejecutar el script:
 
-$ python minbo-public.py
+$ python minbo-public.py &
 
 ### Fuentes:
 
